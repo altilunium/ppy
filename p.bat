@@ -1,0 +1,1 @@
+python C:\Users\LENOVO\Documents\PATH\p.py %1
